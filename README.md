@@ -5,6 +5,6 @@ Database: PostgreSQL www.postgresql.org
 Language: Java
 IDE: Eclipse, with https://www.eclipse.org/windowbuilder/download.php 
 
-tips: http://www.postgresqltutorial.com/postgresql-jdbc/
+Tips: http://www.postgresqltutorial.com/postgresql-jdbc/
 
-idea: library administration system.
+Idea: library administration system.
