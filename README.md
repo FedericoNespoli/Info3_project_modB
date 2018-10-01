@@ -8,3 +8,4 @@ IDE: Eclipse, with https://www.eclipse.org/windowbuilder/download.php
 tips: http://www.postgresqltutorial.com/postgresql-jdbc/
 
 idea: library administration system.
+ciao davide
